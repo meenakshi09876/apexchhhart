@@ -100,7 +100,7 @@ function App() {
               },
             },
             subtitle: {
-              text: "this chat shows revenue data of months",
+              text: "this chart shows revenue data of months",
               style: { color: "#f0f", fontSize: 18 },
             },
             grid: {
